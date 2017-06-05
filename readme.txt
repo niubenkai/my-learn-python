@@ -1,1 +1,2 @@
-this is a git and python learn project
+Git is a distributed version control system.
+Git is free software.
